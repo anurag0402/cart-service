@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Cart Service API
+  description: API documentation for Cart Service
+  version: 1.0.0
+servers:
+  - url: http://localhost:8083 
